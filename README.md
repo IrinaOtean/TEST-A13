@@ -1,5 +1,6 @@
 # TEST-A13
 Ce depot est un test dand le cadre du cours A13
+<img src="image_logo.jpg" alt="logo de l'institution" width="100px">
 
 ## GitHub
 1. initialiser un depot
